@@ -1,0 +1,238 @@
+body{
+    font-family: "Times New Roman", Georgia, Serif;
+}
+header{
+    display: block;
+font-family :"Times New Roman", Georgia, seri;
+position: relative;
+
+}
+.head img{
+    background-repeat: no-repeat;
+    position: relative;
+  margin-bottom:85px;
+}
+.head h1{
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+  position: absolute;
+    font-size: 36px;
+font-weight: 400;
+bottom:130px;
+left: 23px;
+opacity: 0.6;
+display: block;
+}
+
+.nav-bar{
+    position: fixed;
+    width: 100%;
+    top :0px;
+background-color:white;
+height:55px;
+
+}
+.nav-bar button{
+    background-color: rgb(255, 255, 255);
+   border: none;
+    cursor: pointer;
+display: block;
+float :left;
+font-family :"Times New Roman", Georgia, serif;
+font-size: 15px;
+letter-spacing: 4px;
+padding-left: 16px;
+padding-right: 16px;
+padding-top:16px;
+text-align: center;
+}
+.nav-bar .a{
+    float:right;
+    letter-spacing :4px;
+
+}
+/*1st page*/
+.pic-para{
+    width:100%;
+    display :block;
+font-family: "Times New Roman", Georgia, serif;
+font-size: 16px;
+position: relative;
+}
+.pic-para img{
+    opacity:0.75;
+    border-radius: 4px;
+    width: 500px;
+    height:590px;
+    margin-left: 15%;
+}
+.pic-para  .para-box{
+width:33.9999%;
+text-align: center;
+float: left;
+background-color:white;
+position: absolute;
+top:0;
+right:13%;
+height: 570px;
+padding: 12px 24px;
+display: block;
+}
+.pic-para  .para-box h1{
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-size: 36px;
+    font-weight: 400;
+}
+.pic-para  .para-box h5{
+    font-size: 18px;
+    display: block;
+    font-family: "Playfair Display";
+    letter-spacing :5px;
+font-weight: 400;
+}
+.pic-para  .para-box p{
+    font-size: 18px;
+    display: block;
+    display: block;
+font-family :"Times New Roman", Georgia, serif;
+text-align: left;
+}
+.pic-para  .para-box span{
+background-color: #f1f1f1;
+}
+.pic-para  .para-box .under{
+    color: #757575 ;
+}
+hr{
+    margin-left: 15%;
+    margin-right: 15%;
+    opacity: 0.2;
+ margin-top:7% ;
+ margin-bottom: 7%;
+}
+/*third page*/
+.third{
+    width:100%;
+    display :block;
+font-family: "Times New Roman", Georgia, serif;
+
+position: relative; 
+}
+.third .text{
+   background-color:white;
+   width: 36%;;
+  margin-left: 15%;
+  
+}
+.third .text h1{
+    text-align: center;
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-weight: 400;
+    font-size: 36px;
+    margin: 10px 0;
+   
+}
+.third .text h4{
+    font-size: 20px;
+    display: block;
+    font-family: "Playfair Display";
+
+font-weight: 400;
+}
+.third .text p{
+    color: #757575 ;
+    display: block;
+font-family: "Times New Roman", Georgia, serif;
+font-size: 15px;
+}
+
+
+.third img{
+    opacity: 0.75;
+    width:500px;
+    
+    position: absolute;
+top:0%;
+right:15%;
+height:840px;
+border-radius: 4px;
+display: block;
+}
+
+hr{
+    margin-left: 15%;
+    margin-right: 15%;
+    opacity: 0.2;
+ margin-top:10% ;
+ 
+}
+/*last page*/
+
+.contact{
+    width:100%;
+    display :block;
+font-family: "Times New Roman", Georgia, serif;
+font-size: 15px;
+position: relative; 
+}
+.contact h1{
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+    font-weight: 300;
+    margin: 10px 0;
+    font-size:36px;
+     margin-left:14%;
+}
+.contact p{
+    margin-left:14%;
+    display: block;
+font-family: "Times New Roman", Georgia, serif;
+font-size: 15px;
+font-weight: lighter;
+margin-right: 15%;
+}
+.contact .middle-text{
+    color: #607d8b ;
+    font-size: 18px;
+    display:block;
+}
+form{
+    display: block;
+font-family: "Times New Roman", Georgia, serif;
+font-size: 15px;
+}
+form p .s{
+    padding:15px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+   
+}
+form button{
+   
+    margin-left: 15%;
+    margin-top: 15px;
+    padding: 10px ;
+    border: none;
+    background-color: rgb(241, 241, 241);
+ cursor:pointer;
+ margin-bottom:60px;;
+}
+footer{
+    background-color: #f1f1f1 ;
+    text-align: center;
+ width: 100%;
+ padding-top: 32px;
+    padding-bottom:32px ;
+}
+footer p{
+   text-decoration: none;
+   font-family: "Times New Roman", Georgia, serif;
+font-size: 15px;
+}
+footer p a{
+    text-decoration: underline;
+}
